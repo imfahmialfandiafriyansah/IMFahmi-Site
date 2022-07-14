@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "IMFahmi",
+  "shortName": "Situs referensi bisnis dan keuangan",
+  "description": "Situs referensi bisnis dan keuangan terbaik untuk Anda yang mencari referensi mengenai bisnis dan keuangan.",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "id"
 }
